@@ -3,6 +3,6 @@
     <connectionStrings>
         <add name="NorthwindContext" 
             providerName="System.Data.SqlClient" 
-            connectionString="Server=bitsql.wctc.edu;Database=DBName_##_XXX;User ID=YYY;Password=ZZZ" />
+            connectionString="Server=bitsql.wctc.edu;Database=WCTC-20106-MKAPITAN-NW;User ID=xxxx;Password=xxxx" />
     </connectionStrings>
 </configuration>

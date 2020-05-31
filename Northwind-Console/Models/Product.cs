@@ -18,5 +18,10 @@ namespace NorthwindConsole.Models
 
         public virtual Category Category { get; set; }
         public virtual Supplier Supplier { get; set; }
+
+        //public int GetCategoryID()
+        //{
+        //    return this.CategoryId;
+        //}
     }
 }

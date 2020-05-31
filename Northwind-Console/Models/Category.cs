@@ -11,5 +11,11 @@ namespace NorthwindConsole.Models
         public string Description { get; set; }
 
         public virtual List<Product> Products { get; set; }
+
+
+        //public int GetCategoryID()
+        //{
+        //    return this.CategoryId;
+        //}
     }
 }
